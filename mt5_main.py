@@ -35,6 +35,8 @@ local_exe = 'C:\\Users\\DParis\\AppData\\Roaming\\XM Global MT5\\terminal64.exe'
 mt5_acc = 5401675
 mt5_acc = 5400939
 mt5_acc = 5400354
+mt
+
 
 
 # account Password Traders/Investors *** USE YOURS INSTEAD ***
